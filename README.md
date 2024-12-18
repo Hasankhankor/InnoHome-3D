@@ -3,7 +3,7 @@
 This app leverages React Three Fiber to render 3d models of modular homes.
 
 
-## ModHome Model Page - Inside
+## InnoHome 3D Model Page - Inside
 
 ![ModHomes models page from the inside](./public/modhomes-inside.gif)
 
